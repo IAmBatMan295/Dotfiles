@@ -156,7 +156,7 @@
                                                     panes: [
                                                         (
                                                             size: "100%",
-                                                            pane: Pane(Lyrics), // Note: This pane remains, but the tab is gone.
+                                                            pane: Pane(Lyrics),
                                                         ),
                                                     ]
                                                 ),
