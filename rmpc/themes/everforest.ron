@@ -7,7 +7,6 @@
     draw_borders: true,
     browser_column_widths: [20, 38, 42],
 
-    // Everforest Background
     background_color: "#2f383e",
     modal_backdrop: true,
 
@@ -76,7 +75,6 @@
             alignment: Right,
         ),
     ],
-    // Layout remains unchanged
     layout: Split(
         direction: Vertical,
         panes: [
