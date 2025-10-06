@@ -13,6 +13,7 @@ This repository contains my personal configuration files for various application
 ## Specific Configurations
 
 ### RMPC
+- You will need an image randerer for rendering album art such as imagemagic or chafa. It depends on the terminal and its config.
 - The following tabs have been **removed** from the interface:
   - Artists  
   - Album Artists  
