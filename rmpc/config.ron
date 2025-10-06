@@ -34,8 +34,6 @@
             ".":       VolumeUp,
             "<Tab>":   NextTab,
             "<S-Tab>": PreviousTab,
-            // Keybinds for removed tabs are now gone.
-            // You can re-assign these numbers if you wish.
             "1":       SwitchToTab("Queue"),
             "2":       SwitchToTab("Directories"),
             "3":       SwitchToTab("Playlists"),
